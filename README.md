@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @torerik123
-- 👀 I'm interested in web development and looking for work in/near Trondheim.
+- 👀 I'm a web developer in Trondheim.
 - :desktop_computer: Experience with Javascript, Python, C, HTML, CSS, SQL.
-- 🌱 Currently learning React + ASP.NET
 - 📫 Check out my portfolio: https://torerik123.github.io/portfolio/
 
 <!---
