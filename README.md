@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @torerik123
-- 👀 I'm a web developer in based in Trondheim.
+- 👀 I'm a front-end developer in based in Trondheim.
 - :desktop_computer: Experience with Javascript, Python, C, HTML, CSS, SQL.
 - 📫 Check out my portfolio: https://torerik123.github.io/portfolio/
 
