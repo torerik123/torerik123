@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @torerik123
 - 👀 I'm a front-end developer in based in Trondheim.
-- :desktop_computer: Currently building my own SaaS.
-- ⚡ Fun fact: My current Duolingo streak is more than 1200 days.  
+- :desktop_computer: Building my own SaaS and maintaining a +1300 day Duolingo streak.
 - 📫 Check out my portfolio: https://torerik123.github.io/portfolio/
 
 
