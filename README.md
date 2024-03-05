@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @torerik123
-- 👀 I'm a front-end developer in based in Trondheim.
+- 👀 I'm a front-end developer based in Trondheim.
 - :desktop_computer: Building my own SaaS and maintaining a +1300 day Duolingo streak.
 - 📫 Check out my portfolio: https://torerik123.github.io/portfolio/
 
